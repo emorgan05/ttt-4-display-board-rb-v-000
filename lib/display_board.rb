@@ -11,4 +11,4 @@ def display_board(board)
   puts row_2
   puts horizontal
   puts row_3
-end 
+end
